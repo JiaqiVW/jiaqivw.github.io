@@ -9,7 +9,7 @@ I’m a Data Science graduate currently working as an AI Trainer at Outlier, whe
 #### Technical Skills: Python, SQL, R, Power BI, Tableau, Database(MySQL, Docker, Databricks, Redis, MongoDB, Neo4j), Hadoop, Spark   
 
 ## Education
-- **M.S.**, Data Science, ML Specialization| Marquette University (_May 2025_)
+- **M.S.**, Data Science, ML | Marquette University (_May 2025_)
 - **B.S.**, Data Science | Marquette University (_May 2024_)
 
 ## Work Experience
@@ -37,9 +37,17 @@ I’m a Data Science graduate currently working as an AI Trainer at Outlier, whe
 
 ## Projects
 ### Heart Disease Risk Prediction
-- Built and compared multiple classification models, including logistic regression, random forest, and SVM, using clinical and demographic features to predict heart disease risk, incorporating data preprocessing and model evaluation steps.
+[Link](https://github.com/JiaqiVW/Heart-Disease-Risk-Prediction)
+
+Built and compared multiple classification models, including logistic regression, random forest, and SVM, using clinical and demographic features to predict heart disease risk, incorporating data preprocessing and model evaluation steps.
+
+![Heart Disease Risk Pred](/assets/img/heart_disease_prediction.jpeg)
 
 ### Spotify Listening Data Analysis
-- Collected and processed Spotify track and user streaming data in Python, conducted exploratory analysis on listening patterns, applied NLP (bag-of-words) to song titles, tested additional classification and regression models, and implemented a collaborative filtering recommendation system.
+[Link](https://github.com/JiaqiVW/Spotify-Listening-Data-Analysis)
+
+Collected and processed Spotify track and user streaming data in Python, conducted exploratory analysis on listening patterns, applied NLP (bag-of-words) to song titles, tested additional classification and regression models, and implemented a collaborative filtering recommendation system.
+
+![Spotify](/assets/img/spotify_da.jpg)
 
 
