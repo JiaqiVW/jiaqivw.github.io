@@ -9,7 +9,7 @@ I’m a Data Science graduate currently working as an AI Trainer at Outlier, whe
 #### Technical Skills: Python, SQL, R, Power BI, Tableau, Database(MySQL, Docker, Databricks, Redis, MongoDB, Neo4j), Hadoop, Spark   
 
 ## Education
-- **M.S.**, Data Science, ML | Marquette University (_May 2025_)
+- **M.S.**, Data Science, ML Specialization| Marquette University (_May 2025_)
 - **B.S.**, Data Science | Marquette University (_May 2024_)
 
 ## Work Experience
