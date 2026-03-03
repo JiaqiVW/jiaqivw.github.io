@@ -8,12 +8,12 @@ I’m a Data Science graduate currently working as an AI Trainer at Outlier, whe
 
 #### Technical Skills: Python, SQL, R, Power BI, Tableau, Database(MySQL, Docker, Databricks, Redis, MongoDB, Neo4j), Hadoop, Spark   
 
-##
+##  
 ## Education
 - **M.S.**, Data Science, ML | Marquette University (_May 2025_)
 - **B.S.**, Data Science | Marquette University (_May 2024_)
 
-##
+##  
 ## Work Experience
 **AI Trainer @ Outlier (_August 2025 - Present_)**  
 - Evaluated and refined AI model responses across diverse domains, improving reasoning quality and consistency through structured data labeling and ranking workflows.
@@ -37,7 +37,7 @@ I’m a Data Science graduate currently working as an AI Trainer at Outlier, whe
 - Processed and analyzed **120K+ tweets** using NLP sentiment analysis to measure engagement trends and research impact.
 - Identified a **22% increase in positive sentiment**, informing departmental communication and outreach strategy.
 
-##
+##  
 ## Projects
 ### Heart Disease Risk Prediction
 [Link](https://github.com/JiaqiVW/Heart-Disease-Risk-Prediction)
