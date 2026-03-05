@@ -6,7 +6,8 @@ layout: homepage
 
 I’m a Data Science graduate currently working as an AI Trainer at Outlier, where I evaluate and improve the performance of large language models through data-driven analysis. I’m passionate about using machine learning and analytics to solve real-world problems and am actively seeking data science opportunities.  
 
-#### Technical Skills: Python, SQL, R, Power BI, Tableau, Database(MySQL, Docker, Databricks, Redis, MongoDB, Neo4j), Hadoop, Spark   
+#### Language/Frameworks: Python (NumPy, pandas, scikit-learn, Matplotlib, PyTorch), SQL, R, C/C++ (basic); ML/AI: Machine Learning, Deep Learning, NLP, Sentiment Analysis, Random Forest, A/B Testing, Time-Series Forecasting
+#### Data & Cloud: MySQL, Azure, Databricks, Spark, Hadoop, MongoDB, Redis, Neo4j, AWS (Athena, S3, Appflow); Tools: Power BI, Tableau, Alteryx, SAP Data Services, SSIS, Docker, ETL Pipeline Design, R Shiny
 
  
 ## Education
